@@ -1,0 +1,13 @@
+[core]
+	bare = false
+	filemode = true
+	ignorecase = true
+	precomposeunicode = true
+	logallrefupdates = true
+[core]
+	repositoryformatversion = 0
+[remote "origin"]
+	url = https://github.com/APlusContracting/apluscontracting.github.io.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	email = Ana.aplus@gmail.com

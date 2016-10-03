@@ -4327,6 +4327,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding-top: 10px;
   padding-bottom: 10px;
   line-height: 20px;
+
 }
 @media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {
@@ -4628,7 +4629,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
-  background-color: #333;
+  background-color: indianred;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
   background-color: #fff;
