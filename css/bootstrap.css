@@ -12,6 +12,9 @@ html {
 body {
   margin: 0;
 }
+#success_message{
+    display: none;
+}
 article,
 aside,
 details,
